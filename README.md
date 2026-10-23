@@ -26,3 +26,9 @@ This project processes and analyzes a real-world taxi dataset (NYC Taxis). It co
 8. **Correlation Heatmap:** Highlights statistical relationships between numerical features (`distance`, `fare`, `tip`, `tolls`, `total`).
 9. **Pair Plot:** Explores pairwise multi-variable distributions across dataset metrics.
 10. **Violin Plot:** Contrasts the probability density of fares across different payment types.
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have Python installed along with the required libraries (jupyter notebook).
+
